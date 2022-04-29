@@ -8,7 +8,7 @@
 
 📫 How to reach me : join me on twitter linkedin the link is in bio.
 
-😇 Achievement : I'm acknowledged by apple, detuches telekom , ercission, resmed , hackenproof , atmail , Renault Group , duke edu.
+😇 Achievement : I'm acknowledged by apple, detuches telekom , ercission, resmed , hackenproof , atmail , Renault Group , duke edu,edas.info.
 
 
 
