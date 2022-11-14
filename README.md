@@ -10,6 +10,8 @@
 
 😇 Achievement : I'm acknowledged by apple, detuches telekom , ercission, resmed , hackenproof , atmail , Renault Group , duke edu,edas.info, lenovo,securzy,michlein.
 
+👷‍  [Resume](https://drive.google.com/file/d/1gVfAZXKPnd4bBVA-heElEEfc-8u7UYcH/view?usp=sharing)
+
 ![](https://komarev.com/ghpvc/?username=rohit0x5)
 
 
