@@ -8,7 +8,7 @@
 
 📫 How to reach me : email me  rohit_badboi29@intigriti.me 
 
-😇 Achievement : I'm acknowledged by apple*6, detuches telekom , ercission, resmed , hackenproof , atmail , Renault Group , duke edu,edas.info, lenovo,securzy,michlein.
+😇 Achievement : I'm acknowledged by apple*8, detuches telekom , ercission, hackenproof  , Renault Group , duke edu,edas.info, lenovo,michlein, CVE-2022-3774, CVE-2023-5302,.
 
 👷‍  [Resume](https://drive.google.com/file/d/1gVfAZXKPnd4bBVA-heElEEfc-8u7UYcH/view?usp=sharing).
 💻  [Yogosha](https://app.yogosha.com/r/r0x5r).
