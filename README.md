@@ -10,7 +10,7 @@
 
 😇 Achievement : I'm acknowledged by apple*8, detuches telekom , ercission, hackenproof  , Renault Group , duke edu,edas.info, lenovo,michlein, CVE-2022-3774, CVE-2023-5302,.
 
-👷‍  [Resume](https://drive.google.com/file/d/1wNPccJBMq-HJmYA8Xo2e8xE9t6mL8cb9/view?usp=sharing).
+👷‍  [Resume](https://r0x5r.github.io/Resume.pdf).
 💻  [Yogosha](https://app.yogosha.com/r/r0x5r).
  💡  [Intigriti](https://app.intigriti.com/profile/rohit_badboi29).
  🔖 [Linkedin](https://www.linkedin.com/in/r0x5r/).
