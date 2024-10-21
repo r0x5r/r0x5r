@@ -2,7 +2,7 @@
 
 👷‍♂️ I’m interested in web && mobile application security.
 
-🌱 Currently, I’m working as a Security Analyst at Appzlogic and performing pentesting as an individual security researcher.
+🌱 Currently, I’m working as a Security Analyst and performing pentesting as an individual security researcher.
 
 💞️ I’m looking to collaborate on some new project.
 
