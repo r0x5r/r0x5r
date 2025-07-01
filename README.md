@@ -1,22 +1,52 @@
-👋 Hi, I’m rohit sharma.
+# 👋 Hi, I'm Rohit Sharma
 
-👷‍♂️ I’m interested in web && mobile application security.
+I'm a passionate **Security Analyst** and **Independent Security Researcher** based in **Delhi/NCR, India**. My focus is on securing web and mobile applications, and I love diving deep into the world of cybersecurity.
 
-🌱 Currently, I’m working as a Security Analyst and performing pentesting as an individual security researcher.
+## 🔒 Interests
+- Web & Mobile Application Security
+- Penetration Testing
+- Vulnerability Research
 
-💞️ I’m looking to collaborate on some new project.
+## 🌱 Current Work
+- Working as a **Security Analyst**, performing penetration testing and vulnerability assessments.
+- Actively contributing to the security community as an independent researcher.
 
-📫 How to reach me : email me  rohit_badboi29@intigriti.me 
+## 💞️ Collaboration
+I'm excited to collaborate on innovative cybersecurity projects or bug bounty initiatives. Let's build something secure together!
 
-😇 Achievement : I'm acknowledged by apple*10, detuches telekom , ercission, hackenproof  , Renault Group , duke edu,edas.info, lenovo,michlein, CVE-2022-3774, CVE-2023-5302.
+## 📫 Get in Touch
+- **Email**: [rohit_badboi29@intigriti.me](mailto:rohit_badboi29@intigriti.me)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your LinkedIn URL)*
 
-📍 Location: Delhi/NCR,India
+## 😇 Achievements
+Proud to have been acknowledged by:
+- **Apple** (x10)
+- **Deutsche Telekom**
+- **Ericsson**
+- **HackenProof**
+- **Renault Group**
+- **Duke University** (duke.edu)
+- **EDAS.info**
+- **Lenovo**
+- **Michelin**
+- Assigned CVEs: **CVE-2022-3774**, **CVE-2023-5302**
 
-👷‍  [Resume](https://r0x5r.github.io/Resume.pdf).
-💻  [Yogosha](https://app.yogosha.com/r/r0x5r).
- 💡  [Intigriti](https://app.intigriti.com/profile/rohit_badboi29).
- 🔖 [Linkedin](https://www.linkedin.com/in/r0x5r/).
-![](https://komarev.com/ghpvc/?username=rohit0x5).
+## 📍 Location
+Delhi/NCR, India
 
+## 🤝 I’m open to:
+- Collaborations on red teaming, offensive tooling, or OSINT research
+- Security partnerships with startups or product-based companies
+- Freelance/contract-based VAPT projects
+
+## 🔗 Connect with Me
+- [Resume](#) *(Add your resume link)*
+- [Yogosha](https://yogosha.com/) *(Update with your profile link if applicable)*
+- [Intigriti](https://www.intigriti.com/) *(Update with your profile link if applicable)*
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your LinkedIn URL)*
+
+---
+
+*Let's secure the digital world, one vulnerability at a time!*
 
 
