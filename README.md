@@ -40,10 +40,10 @@ Delhi/NCR, India
 - Freelance/contract-based VAPT projects
 
 ## 🔗 Connect with Me
-- [Resume](#) *(Add your resume link)*
-- [Yogosha](https://yogosha.com/) *(Update with your profile link if applicable)*
-- [Intigriti](https://www.intigriti.com/) *(Update with your profile link if applicable)*
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your LinkedIn URL)*
+- [Resume](https://r0x5r.github.io/Resume.pdf) *(Add your resume link)*
+- [Yogosha](https://yogosha.com/r0x5r) *(Update with your profile link if applicable)*
+- [Intigriti](https://www.intigriti.com/r0x5r) *(Update with your profile link if applicable)*
+- [LinkedIn](https://www.linkedin.com/in/r0x5r) *(Update with your LinkedIn URL)*
 
 ---
 
