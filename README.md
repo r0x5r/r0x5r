@@ -3,7 +3,7 @@
 I'm a passionate **Security Analyst** and **Independent Security Researcher** based in **Delhi/NCR, India**. My focus is on securing web and mobile applications, and I love diving deep into the world of cybersecurity.
 
 ## 🔒 Interests
-- Web & Mobile Application Security
+- Web & Mobile Application Security, Thick client , IOS , cloud audit , Pci-Dss segmentation test.
 - Penetration Testing
 - Vulnerability Research
 
