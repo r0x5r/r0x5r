@@ -16,7 +16,7 @@ I'm excited to collaborate on innovative cybersecurity projects or bug bounty in
 
 ## 📫 Get in Touch
 - **Email**: [rohit_badboi29@intigriti.me](mailto:rohit_badboi29@intigriti.me)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin-profile) *(Update with your LinkedIn URL)*
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/r0x5r) *(Update with your LinkedIn URL)*
 
 ## 😇 Achievements
 Proud to have been acknowledged by:
@@ -41,8 +41,8 @@ Delhi/NCR, India
 
 ## 🔗 Connect with Me
 - [Resume](https://r0x5r.github.io/Resume.pdf) *(Add your resume link)*
-- [Yogosha](https://yogosha.com/r0x5r) *(Update with your profile link if applicable)*
-- [Intigriti](https://www.intigriti.com/r0x5r) *(Update with your profile link if applicable)*
+- [Yogosha](https://yogosha.com/r/r0x5r) *(Update with your profile link if applicable)*
+- [Intigriti](https://app.intigriti.com/profile/rohit_badboi29) *(Update with your profile link if applicable)*
 - [LinkedIn](https://www.linkedin.com/in/r0x5r) *(Update with your LinkedIn URL)*
 
 ---
